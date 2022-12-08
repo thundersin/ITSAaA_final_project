@@ -229,7 +229,9 @@ while True:
                         quit()
         
         else:
-                print("Invalid selection. Please try again.\n")  
+                print("Invalid selection. Please try again.\n") 
+                wait()
+                clear()
 
 
 
